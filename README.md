@@ -1,7 +1,10 @@
 # 中国AI出海项目表
 # Chinese-AI-Overseas-Expansion-Project
 Chinese AI Overseas Expansion ProjectS
+进微信群二维码:
+![检测图片](/images/erweima.png)
 
+##
 ## HeyGen
 ### [heygen.com](https://www.heygen.com/)
 ### 一款文本生成视频的AI工具。
