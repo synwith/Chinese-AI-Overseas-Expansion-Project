@@ -2,7 +2,7 @@
 # Chinese-AI-Overseas-Expansion-Project
 Chinese AI Overseas Expansion ProjectS
 进微信群二维码:
-<img src="/images/erweima.jpg" alt="微信群二维码" width="300" height="200">
+<img src="/images/erweima.jpg" alt="微信群二维码" width="300" height="300">
 
 ##
 ## HeyGen
