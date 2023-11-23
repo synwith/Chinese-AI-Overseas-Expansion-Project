@@ -6,6 +6,7 @@ Chinese AI Overseas Expansion ProjectS
 ### [heygen.com](https://www.heygen.com/)
 ### 一款文本生成视频的AI工具。
 ### 服务器:美国
+![检测图片](/images/heygen.png)
 
 ##
 
