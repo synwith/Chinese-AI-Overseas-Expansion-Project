@@ -1,8 +1,8 @@
 # 中国AI出海项目表（Chinese-AI-Overseas-Expansion-Project）
 Chinese AI Overseas Expansion ProjectS
 
-## 进微信群二维码:
-<img src="/images/erweima.jpg" alt="微信群二维码" width="300" height="450">
+## 进微信群(容易失效）加个人微信二维码:
+<img src="/images/luzaimou.jpg" alt="微信群二维码" width="300" height="450">
 
 
 ##
