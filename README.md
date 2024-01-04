@@ -27,4 +27,12 @@ Chinese AI Overseas Expansion ProjectS
 ### 您的完美AI伴侣
 ### 服务器:日本东京
 ### 检测地址：[CNSOFTS.CN](https://cnsofts.cn)
-[](images/openlove.jpg)
+
+
+
+## Never Ends
+### [NeverEnds](https://neverends.life)
+### 文生视频、图生视频
+### 服务器:澳大利亚新南威尔士悉尼
+### 检测地址：[CNSOFTS.CN](https://cnsofts.cn)
+
