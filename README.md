@@ -9,7 +9,7 @@ Chinese AI Overseas Expansion ProjectS
 ### [heygen.com](https://www.heygen.com/)
 ### 一款文本生成视频的AI工具。
 ### 服务器:美国
-![检测图片](/images/heygen.png)
+### 检测地址：[CNSOFTS.CN](https://cnsofts.cn)
 
 ##
 
@@ -17,4 +17,13 @@ Chinese AI Overseas Expansion ProjectS
 ### [liblib.ai](https://www.liblib.ai/)
 ### 中国领先AI创作平台
 ### 服务器:香港
-![检测图片](/images/liblib.png)
+### 检测地址：[CNSOFTS.CN](https://cnsofts.cn)
+
+
+##
+
+## Open Love
+### [Open Love](https://openlove.life)
+### 您的完美AI伴侣
+### 服务器:日本东京
+### 检测地址：[CNSOFTS.CN](https://cnsofts.cn)
