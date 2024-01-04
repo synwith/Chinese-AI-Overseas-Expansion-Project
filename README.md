@@ -27,4 +27,4 @@ Chinese AI Overseas Expansion ProjectS
 ### 您的完美AI伴侣
 ### 服务器:日本东京
 ### 检测地址：[CNSOFTS.CN](https://cnsofts.cn)
-!(/images/openlove.jpg)
+[](images/openlove.jpg)
